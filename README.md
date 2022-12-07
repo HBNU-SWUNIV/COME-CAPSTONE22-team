@@ -14,8 +14,10 @@
   - 또한 월패드, 인터폰이 없는 가정의 경우 방문자가 있거나 의심될 때 직접 현관문 방범렌즈를 확인하거나 문을 열어 확인해야하기 때문에 범죄의 위험에 노출될 수 있다.
   
 ## System Design
-  - ### System Requirements
-    - OOO
+  - 시스템 구성도
+  - ![image](https://user-images.githubusercontent.com/94392092/206180877-0ecf2003-ce64-4bd6-b1fd-0d01f515ac0d.png)
+
+    - 
     - OOO
     
 ## Case Study
