@@ -15,9 +15,19 @@
   
 ## System Design
   - 시스템 구성도
-  - ![image](https://user-images.githubusercontent.com/94392092/206181008-220cea8d-080d-474a-b3cd-11bd0feae394.png)
+ ![image](https://user-images.githubusercontent.com/94392092/206181008-220cea8d-080d-474a-b3cd-11bd0feae394.png)
+ 
+  - 시스템 요구사항
+    - 아두이노 컨트롤러 : 블루투스 페어링 및 도어락의 기본 동작을 구현
+    - 어플리케이션 : 도어락과 캠을 조작
+    - iptime 포트포워딩 : 스마트폰 공기계를 캠으로 사용하기 위한 iptime 와이파이의 dns 및 포트포워딩 설정
 
-    
+  - 도어락 시연사진
+   ![Screenshot_20221028-045144_KakaoTalk](https://user-images.githubusercontent.com/94392092/206182400-56f2f4cc-619c-4a0f-a9dd-8db9f8a1f95b.jpg)
+   ![Screenshot_20221028-052254_Gallery](https://user-images.githubusercontent.com/94392092/206182673-e5a6352d-52a3-41b3-9783-841c6af55fb8.jpg)
+   ![image](https://user-images.githubusercontent.com/94392092/206182710-d54bc886-690e-4138-b51a-434353abde56.png)
+
+
 ## Case Study
   - ### Description
   
