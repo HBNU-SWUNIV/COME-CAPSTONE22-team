@@ -17,9 +17,6 @@
   - 시스템 구성도
   - ![image](https://user-images.githubusercontent.com/94392092/206181008-220cea8d-080d-474a-b3cd-11bd0feae394.png)
 
-
-    - 
-    - OOO
     
 ## Case Study
   - ### Description
