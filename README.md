@@ -15,7 +15,8 @@
   
 ## System Design
   - 시스템 구성도
-  - ![image](https://user-images.githubusercontent.com/94392092/206180877-0ecf2003-ce64-4bd6-b1fd-0d01f515ac0d.png)
+  - ![image](https://user-images.githubusercontent.com/94392092/206181008-220cea8d-080d-474a-b3cd-11bd0feae394.png)
+
 
     - 
     - OOO
