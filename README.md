@@ -15,6 +15,7 @@
   
 ## System Design
   - 시스템 구성도
+  
  ![image](https://user-images.githubusercontent.com/94392092/206181008-220cea8d-080d-474a-b3cd-11bd0feae394.png)
  
   - 시스템 요구사항
@@ -27,11 +28,6 @@
    ![Screenshot_20221028-045144_KakaoTalk](https://user-images.githubusercontent.com/94392092/206183200-3ea9e95e-e656-437f-b9a5-18fd5f3be083.jpg)
    ![Screenshot_20221028-052254_Gallery](https://user-images.githubusercontent.com/94392092/206183214-2fa64a18-a83a-47ed-8dbc-5423467cc78e.jpg)
    ![image](https://user-images.githubusercontent.com/94392092/206182710-d54bc886-690e-4138-b51a-434353abde56.png)
-
-
-## Case Study
-  - ### Description
-  
   
 ## Conclusion
   - 시중에 판매하는 도어락의 한계점인 보안상의 약점을 도어락 자체 캠과 블루투스 개폐방식으로 보완한다.
